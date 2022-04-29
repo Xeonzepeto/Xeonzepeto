@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm XEON</h1>
 <h3 align="center">Creator Items 3D ZEPETO Indonesia</h3>
 
-- 💬 Ask me about **Items 3D zepeto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
